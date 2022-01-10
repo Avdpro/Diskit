@@ -1,0 +1,19 @@
+{
+	"name": "diskit",
+	"version": "0.1.0",
+	"type": "app",
+	"main": "app.html",
+	"versionIdx": 63,
+	"binExport": {
+		"main": "app.html",
+		"type": "app"
+	},
+	"imports": {},
+	"lib": {},
+	"bin": {},
+	"libExport": {
+		"name": "diskit",
+		"main": "app.html"
+	},
+	"cloudId": "diskit@avdpro@me.com"
+}
